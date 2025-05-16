@@ -1,0 +1,4 @@
+[submodule "modules/rosbridge_suite"]
+	path = modules/rosbridge_suite
+	url = https://github.com/RobotWebTools/rosbridge_suite.git
+	branch = ros2
