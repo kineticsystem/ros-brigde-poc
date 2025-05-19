@@ -1,0 +1,8 @@
+# Request - The goal to be achieved
+int32 number_of_seconds
+---
+# Result - The outcome of executing the action
+string message
+---
+# Feedback - Updates while the action is being executed
+int32 seconds_elapsed

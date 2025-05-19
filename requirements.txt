@@ -1,0 +1,4 @@
+# Pin setuptools FIRST before other packages
+setuptools==59.6.0
+
+roslibpy
